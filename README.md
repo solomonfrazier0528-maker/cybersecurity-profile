@@ -10,8 +10,8 @@ I am a cybersecurity student at UTSA.
 
 ## Interests
 - Cybersecurity
-- Software security testing
-- Network security
+- Risk and Protection
+- Crisis Management
 
 ## GitHub
 https://github.com/solomonfrazier0528-maker
