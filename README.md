@@ -15,4 +15,6 @@ I am a cybersecurity student at UTSA.
 
 ## GitHub
 https://github.com/solomonfrazier0528-maker
-[LinkedIn Profile](https://www.linkedin.com/in/solomon-frazier-a2aa13182)
+
+## LinkedIn
+[My LinkedIn Profile](https://www.linkedin.com/in/solomon-frazier-a2aa13182)
